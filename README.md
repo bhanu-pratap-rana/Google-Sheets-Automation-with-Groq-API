@@ -133,6 +133,9 @@ function callGroqAPI(question, mood) {
 | Bye                   | Angry       | [ ]    |          |
 | What is the age of sun| Happy       | [ ]    |          |
 
+ ## Example Table and Response 
+![image](https://github.com/user-attachments/assets/cfcbc797-c8b2-46d4-a7e2-dfa36cbd8aa8)
+
 ## Documentation
 
 ### Setup
